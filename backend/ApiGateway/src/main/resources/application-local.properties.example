@@ -1,0 +1,2 @@
+# Copy to application-local.properties (gitignored). Use the same jwt.secret on all services.
+jwt.secret=your_jwt_secret_min_32_characters_here

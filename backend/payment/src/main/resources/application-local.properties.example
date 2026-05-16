@@ -1,0 +1,3 @@
+# Copy this file to application-local.properties (gitignored) and set your MySQL credentials.
+spring.datasource.username=root
+spring.datasource.password=your_mysql_password_here

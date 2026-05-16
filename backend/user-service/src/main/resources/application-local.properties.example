@@ -1,0 +1,5 @@
+# Copy this file to application-local.properties (gitignored) and set your credentials.
+spring.datasource.username=root
+spring.datasource.password=your_mysql_password_here
+# Same secret on all services that issue/validate JWT (min 32 characters for HS256)
+jwt.secret=your_jwt_secret_min_32_characters_here
