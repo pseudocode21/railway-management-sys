@@ -1,19 +1,4 @@
-# Welcome to My GitHub Profile
 
-<div align="center">
-
-### Gaurav Singh Yadav
-**Java Backend & Full Stack Developer**
-
-</div>
-
----
-
-## 👋 About Me
-
-Hi, I'm **Gaurav Singh Yadav**, a software developer focused on building reliable backend systems and full-stack applications. I work primarily with **Java, Spring Boot, Microservices and React.js**, and enjoy designing REST APIs, integrating databases, implementing application security and solving engineering problems.
-
----
 
 ## 🚆 Railway Management System
 
